@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 Verde
+=======
+esto es el 2.
+
+gato.
+>>>>>>> 573abdabd49feb576d034a617ba846d177b1a227

@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 Naranja
+=======
+holis.
+
+elefante.
+>>>>>>> 573abdabd49feb576d034a617ba846d177b1a227
